@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/online-shop-BUYIT/static/css/main.0bc6f13e.chunk.css",
+    "main.js": "/online-shop-BUYIT/static/js/main.e57e6e8d.chunk.js",
+    "main.js.map": "/online-shop-BUYIT/static/js/main.e57e6e8d.chunk.js.map",
+    "runtime-main.js": "/online-shop-BUYIT/static/js/runtime-main.f5c93aa6.js",
+    "runtime-main.js.map": "/online-shop-BUYIT/static/js/runtime-main.f5c93aa6.js.map",
+    "static/js/2.9071f77e.chunk.js": "/online-shop-BUYIT/static/js/2.9071f77e.chunk.js",
+    "static/js/2.9071f77e.chunk.js.map": "/online-shop-BUYIT/static/js/2.9071f77e.chunk.js.map",
+    "index.html": "/online-shop-BUYIT/index.html",
+    "static/css/main.0bc6f13e.chunk.css.map": "/online-shop-BUYIT/static/css/main.0bc6f13e.chunk.css.map",
+    "static/js/2.9071f77e.chunk.js.LICENSE.txt": "/online-shop-BUYIT/static/js/2.9071f77e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5c93aa6.js",
+    "static/js/2.9071f77e.chunk.js",
+    "static/css/main.0bc6f13e.chunk.css",
+    "static/js/main.e57e6e8d.chunk.js"
+  ]
+}
